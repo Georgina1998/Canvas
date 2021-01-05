@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>Robbery</item>
+        <item>Inappropriate Clothing</item>
+        <item>Spoiled Food</item>
+    </string-array>
+</resources>
